@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.vscode/
+npm-debug.log
+yarn-error.log
+tsconfig.json
+.eslintrc.json
+.prettierrc.json
